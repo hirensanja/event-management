@@ -107,6 +107,9 @@ jQuery(document).ready(function () {
                 }
             });
 
-        }
+        }else{
+			
+			alert('Please select options');
+		}
     });
 });

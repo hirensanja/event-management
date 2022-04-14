@@ -1,0 +1,13 @@
+#events-meta-box .ui-datepicker-trigger{vertical-align: middle; width: 3%}
+#evntmgmt_date{width:96%}
+#evntmgmt_venue{width:100%}
+#evntmgmt_location{width:100%}
+#evntmgmt_type{height: 43px;border-radius: 6px;}
+.evntmgmt_start_dt_filter, .evntmgmt_end_dt_filter,.evntmgmt_filter_btn{margin-top: 14px}
+#evntmgmt_start_date,#evntmgmt_end_date{border-radius: 6px;height: 30px;}
+.evntmgmt_filter{margin-bottom: 37px;display:flex;align-items: center;justify-content: space-between}
+.evntmgmt_cat_filter, .evntmgmt_start_dt_filter, .evntmgmt_end_dt_filter, .evntmgmt_filter_btn{ margin: 0;}
+.evntmgmt_start_dt_filter, .evntmgmt_end_dt_filter{position: relative;}
+#evntmgmt_listing .ui-datepicker-trigger{position: absolute;right: 7px;top: 35px;}
+.evntmgmt_filter_btn{margin-top: 22px;}
+#evntmgmt_filters{height: 36px;border-radius: 4px;width: 83px;}

@@ -92,7 +92,7 @@ class EvntMgmt_Create_Custom_Fields {
         }
 
         // Check post type
-        if (get_post_type(get_the_ID()) != 'events-management') {
+        if (get_post_type($post_id) != 'events-management') {
             return;
         }
         
